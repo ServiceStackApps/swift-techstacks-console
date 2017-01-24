@@ -28,7 +28,7 @@ specify by pasting in the following Swift code in `Package.swift`:
 import PackageDescription
 
 let package = Package(
-    name: "ServiceStackClient",
+    name: "TechStacks Console App",
     dependencies: [
         .Package(url: "https://github.com/ServiceStack/SwiftClient", majorVersion: 1)
     ]
